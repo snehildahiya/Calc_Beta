@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorDarkAngel">#19232d</color>
+    <color name="Transparent">#12000000</color>
+    <color name="colorPureSoul">#dae6f2</color>
+    <color name="colorDeepOcean">#e8068591</color>
+    <color name="colorDarkNum">#e8062528</color>
+    <color name="colorFury">#dfe21313</color>
+</resources>
